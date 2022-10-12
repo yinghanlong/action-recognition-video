@@ -10,7 +10,7 @@ Actions in continuous videos are correlated and may have hierarchical relationsh
 
 ### Clone the project repository from github:
 ```
-$ git clone https://github.com/yinghanlong/action-recognition-videos.git
+$ git clone https://github.com/yinghanlong/action-recognition-video.git
 ```
 
 ## 1. Data
